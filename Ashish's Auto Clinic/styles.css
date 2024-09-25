@@ -1,0 +1,67 @@
+head {
+    margin: 0;
+    padding: 20px;
+    color: #F4F7F9;
+}
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 20px;   
+    background: url(Snapchat-12505487961.jpg);    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: #F4F7F9;    
+}
+
+nav {
+    background-color: #63657D;
+    color: #F4F7F9;
+    padding: 15px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: #F4F7F9;
+    padding: 30px 0;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #63657D;
+}
